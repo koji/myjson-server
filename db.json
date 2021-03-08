@@ -2,17 +2,17 @@
   "products": [
        {
           "id": "ghost-whey-x-chips-ahoy",
-          "name": "Ghost Whey X Chips Ahoy",
-          "details": "We've said it before and we will say it again, nothing beats the real thing. With years of R&D and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
+          "name": "Web配信の技術",
+          "details": "HTTPキャッシュ、リバースプロキシ、CDNなどWeb開発で大切な「配信」の技術。重要な技術ながら、現場では知見のあるエンジニアが少なく、なんとなくで運用されていたり、導入が遅れていたりします。本書では、HTTPキャッシュの基礎から解説し、一冊でしっかり配信が学べます。速くて落ちないWebサイト／Webサービス／Web APIの実現はもちろん。キャッシュ事故やセキュリティ上の問題を防ぐのにも役立ちます。",
           "price": "$39.99",
           "image": "https://tshop.r10s.jp/rakutenkobo-ebooks/cabinet/1152/2000009411152.jpg?fitin=200:300&composite-to=*,*|200:300"
         },
       {
           "id": "ghost-whey-vegan",
-          "name": "GHOST® Vegan Protein",
-          "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
+          "name": "Webを支える技術",
+          "details": "Webは誕生から20年で爆発的な普及を果たし，17億人のユーザと2億台のサーバを抱える巨大システムへと成長しました。Webがここまで成功した秘密は，その設計思想，いわゆるアーキテクチャにあります。Webのアーキテクチャ，そしてHTTP，URI，HTMLといったWebを支える技術は，Webがどんなに巨大化しても対応できるように設計されていたのです。私たちが作る個々のWebサービスも，Webのアーキテクチャにのっとることで成功へとつながります。Webのアーキテクチャに正しく適応したWebサービスは，情報が整理され，ユーザの使い勝手が向上し，ほかのサービスと連携しやすくなり，将来的な拡張性が確保されるからです。本書のテーマは，Webサービスの実践的な設計です。まずHTTPやURI，HTMLなどの仕様を歴史や設計思想を織り交ぜて解説します。そしてWebサービスにおける設計課題，たとえば望ましいURI，HTTPメソッドの使い分け，クライアントとサーバの役割分担，設計プロセスなどについて，現時点のベストプラクティスを紹介します。",
           "price": "$49.99",
-          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
+          "image": "https://tshop.r10s.jp/rakutenkobo-ebooks/cabinet/3351/2000006873351.jpg?fitin=200:300&composite-to=*,*|200:300"
         }
   ],
   "profile": {
